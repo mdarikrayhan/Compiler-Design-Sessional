@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main(){
+    int          x,y;//declaration
+    int z;/*arik*/
+    z=x+y+10;/*
+    rayhan*/
+
+
+
+    
+    printf("%d",z);
+    return 0;
+}
